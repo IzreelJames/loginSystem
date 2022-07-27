@@ -47,8 +47,8 @@ include_once '../header/header.php';
             <div class="card h-100">
                 <img src="../img/journal.jpg" style="width: " class="card-img-top" alt="technical charting with indicators" />
                 <div class="card-body">
-                    <h5 class="card-title">Record Keeping</h5>
-                    <p class="card-text">Absolute performance is relative to the .</p>
+                    <h5 class="card-title"><a href="../docs/record.php">Record Keeping</a> </h5>
+                    <p class="card-text">Absolute performance is relative good record keeping.</p>
                 </div>
                 <div class="card-footer">
                     <small class="text-muted">Last updated 3 mins ago</small>
